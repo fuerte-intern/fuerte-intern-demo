@@ -1,2 +1,2 @@
 # fuerte-intern-demo
-this is demo repo
+this is demo repository 
